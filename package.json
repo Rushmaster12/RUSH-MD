@@ -5,11 +5,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Ethix-MD",
-    "stop": "pm2 stop Ethix-MD",
-    "restart": "pm2 restart Ethix-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Rush-MD",
+    "stop": "pm2 stop Rush-MD",
+    "restart": "pm2 restart Rush-MD"
   },
-  "keywords": ["ethix-md", "whatsapp-bot", "RUSH-MD", "whatsapp md bot"],
+  "keywords": ["Rush-md", "whatsapp-bot", "RUSH-MD", "whatsapp md bot"],
   "author": "RUSH-MD",
   "license": "ISC",
   "dependencies": {
