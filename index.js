@@ -83,7 +83,7 @@ async function start() {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "RUSH-MD whatsapp user bot" };
+                return { conversation: "RUSH-MD BOT whatsapp user bot" };
             }
         });
 
@@ -95,7 +95,7 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("🐼 RUSH-MD SESSION IS SUCCESSFULLY🐼                                 *🐼JOIN MY CHANNEL🐼*              https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e.                               *🐼BOT REPO🐼*                      https://github.com/Rushmaster12/RUSH-MD                                                           *🐼MY OWNER🐼*                    Wa.me/917020728211                                                   ")); 
+                    console.log(chalk.green("🐼 RUSH-MD BOT SESSION IS SUCCESSFULLY CONNECTED...🐼                                 *🐼JOIN MY CHANNEL🐼*              https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e.                               *🐼BOT REPO🐼*                      https://github.com/Rushmaster12/RUSH-MD                                                           *🐼MY OWNER🐼*                    Wa.me/917020728211                                                   ")); 
 
 
                     Matrix.sendMessage(Matrix.user.id, { text: `*┏━━━━━━━━━━━━━━
