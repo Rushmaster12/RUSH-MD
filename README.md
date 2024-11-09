@@ -196,5 +196,18 @@ Stay connected with the latest updates and community by joining our official Wha
     <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+RUSH-MD" alt="Typing SVG" /></a>
 <p>---
 
+
+<a href="https://github.com/ROMEKTRICKS/"><img src="https://files.catbox.moe/fgpxbl.jpg" width=80 height=80></a>   
+
+|**[`ROMEK-XD`](https://github.com/ROMEKTRICKS)**|
+
+## 👑 `𝐑𝐎𝐌𝐄𝐊-𝐗𝐃 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑`👨 
+##👑 *`SUPPORTER`* 🙂
+ <br>
+ </p>
+    <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+ROMEK-XD" alt="Typing SVG" /></a>
+<p>---
+
  
  README.MD FILE DONT COPY </p>
