@@ -52,7 +52,7 @@ async function downloadSessionData() {
         console.error('Please add your session to SESSION_ID env !!');
         return false;
     }
-    const sessdata = config.SESSION_ID.split("Rush-MD&")[1];
+    const sessdata = config.SESSION_ID.split("RUSH-MD&")[1];
     const url = `https://pastebin.com/raw/${sessdata}`;
     try {
         const response = await axios.get(url);
@@ -83,7 +83,7 @@ async function start() {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "RUSH-MD BOT whatsapp user bot" };
+                return { conversation: "RUSHMXD whatsapp user bot" };
             }
         });
 
@@ -95,20 +95,8 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("🌡️ RUSH-MD BOT SESSION IS SUCCESSFULLY CONNECTED...🐼                                 *🐼JOIN MY CHANNEL🐼*              https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e.                               *🐼BOT REPO🐼*                      https://github.com/Rushmaster12/RUSH-MD                                                           *🐼MY OWNER🐼*                    Wa.me/917020728211                                                   ")); 
-
-
-                    Matrix.sendMessage(Matrix.user.id, { text: `*┏━━━━━━━━━━━━━━
-┃RUSH-MD SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━*
-❶ || Creator = 𖥘⚡ RUSH-MD ⚡𖥘
-❷ || https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e
-❸ || Owner = https://wa.me/917020728211
-❺ || Bot Repo = https://github.com/Rushmaster12/RUSH-MD
-❻ || YouTube = https://youtube.com/@romek-xd9 
-©2024-2099 *RUSHMASTER12*   ` });
+                    console.log(chalk.green("😃RUSH-MD-CONNECTED Successful️✅ JOIN FOR MORE UPDATE🥏 https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e"));
+                    Matrix.sendMessage(Matrix.user.id, { text: `😃RUSH-MD-CONNECTED Successful️✅ JOIN FOR MORE UPDATE🥏 https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e` });
                     initialConnection = false;
                 } else {
                     console.log(chalk.blue("♻️ Connection reestablished after restart."));
@@ -131,6 +119,7 @@ async function start() {
         Matrix.ev.on('messages.upsert', async (chatUpdate) => {
             try {
                 const mek = chatUpdate.messages[0];
+                console.log(mek);
                 if (!mek.key.fromMe && config.AUTO_REACT) {
                     console.log(mek);
                     if (mek.message) {
@@ -142,6 +131,27 @@ async function start() {
                 console.error('Error during auto reaction:', err);
             }
         });
+        
+        Matrix.ev.on('messages.upsert', async (chatUpdate) => {
+    try {
+        const mek = chatUpdate.messages[0];
+        const fromJid = mek.key.participant || mek.key.remoteJid;
+        if (!mek || !mek.message) return;
+        if (mek.key.fromMe) return;
+        if (mek.message?.protocolMessage || mek.message?.ephemeralMessage || mek.message?.reactionMessage) return; 
+        if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_STATUS_SEEN) {
+            await Matrix.readMessages([mek.key]);
+            
+            if (config.AUTO_STATUS_REPLY) {
+                const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By ROMEK-XD';
+                await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
+            }
+        }
+    } catch (err) {
+        console.error('Error handling messages.upsert event:', err);
+    }
+});
+
     } catch (error) {
         console.error('Critical Error:', error);
         process.exit(1);
