@@ -187,11 +187,10 @@ Stay connected with the latest updates and community by joining our official Wha
 
 <a href="https://github.com/Rushmaster12/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=80 height=80></a>   
 
-|**[`𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪☯️`](https://github.com/rushmaster12)**|
+|**[`𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪 ☯️`](https://github.com/rushmaster12)**|
 
 ## 👑 `RUSH-MD BOT OWNER`👨‍💻 
-
- <br>
+<br>
  </p>
     <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+RUSH-MD" alt="Typing SVG" /></a>
 <p>---
@@ -202,7 +201,7 @@ Stay connected with the latest updates and community by joining our official Wha
 |**[`ROMEK-XD`](https://github.com/ROMEKTRICKS)**|
 
 ## 👑 `𝐑𝐎𝐌𝐄𝐊-𝐗𝐃 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑`👨 
-##👑 *`SUPPORTER`* 🙂
+##👑 *`𝐒𝐔𝚸𝚸𝚯𝚪𝚻𝚵𝚪`* 🙂
  <br>
  </p>
     <p align="center">
@@ -210,4 +209,4 @@ Stay connected with the latest updates and community by joining our official Wha
 <p>---
 
  
- README.MD FILE DONT COPY </p>
+ *README.MD FILE DONT COPY </p>*
