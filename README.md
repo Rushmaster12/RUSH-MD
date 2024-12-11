@@ -44,7 +44,7 @@ You'll need a session ID to run the bot. Click the button below to obtain your s
 
 ## 🤩 Deployment Options 🤩
 
-You can deploy the ROMEK-XD bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
+You can deploy the RUSH-MASTER bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
 
 ### Deploy to Heroku 
 
