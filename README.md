@@ -160,20 +160,6 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
    Make sure to keep Termux open to maintain the bot's operation.
 
-## 😻 Join WhatsApp Group, Channel, and Contact the Owner
-
-Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
-.
-
-### 🎉🎉DON'T FORGET TO CHECK RUSH-MD 🎉🎉
-
-- **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
-
-- **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp)
-- 
-## DON'T FORGET TO TO BUY ETHIX COFFEE AND BOT UPDATES 🎉🎉
-- **Donate:** [Buy Me A Coffee](buymeacoffee.com/ethixbhai)
-- and check his bot ##🚀BOT🎉[https://github.com/Rushmaster12/RUSH-MD)
 
 ## ⚠️ Reminder
 
@@ -184,30 +170,17 @@ Stay connected with the latest updates and community by joining our official Wha
 ---
 
 
-
-
 <a href="https://github.com/Rushmaster12/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=80 height=80></a>   
 
 |**[`𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪 ☯️`](https://github.com/rushmaster12)**|
 
-## 👑 `RUSH-MD BOT OWNER`👨‍💻 
+   ## 👑`RUSH-MD BOT OWNER`👨‍💻 
 <br>
  </p>
     <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+RUSH-MD" alt="Typing SVG" /></a>
 <p>---
 
 
-<a href="https://github.com/ROMEKTRICKS/"><img src="https://files.catbox.moe/fgpxbl.jpg" width=80 height=80></a>   
-
-|**[`ROMEK-XD`](https://github.com/ROMEKTRICKS)**|
-
-## 👑 `𝐑𝐎𝐌𝐄𝐊-𝐗𝐃 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑`👨 
-##👑 *`𝐒𝐔𝚸𝚸𝚯𝚪𝚻𝚵𝚪`* 🙂
- <br>
- </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+ROMEK-XD" alt="Typing SVG" /></a>
-<p>---
 
  
  *README.MD FILE DONT COPY </p>*
