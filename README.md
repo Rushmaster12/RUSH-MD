@@ -179,3 +179,8 @@ You can also deploy the bot directly on your Android device using Termux. Hereâ€
 
  
  *README.MD FILE DONT COPY </p>*
+
+
+<a href="https://seon-nd-pair.netlify.app/">
+  <img src="https://img.shields.io/badge/LOGINSZOWITH-PAIRS20CODE-black" alt="LOGIN WITH PAIR CODE" width="250">
+</a>
