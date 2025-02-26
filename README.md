@@ -184,3 +184,9 @@ You can also deploy the bot directly on your Android device using Termux. Hereâ€
 <a href="https://seon-nd-pair.netlify.app/">
   <img src="https://img.shields.io/badge/LOGINSZOWITH-PAIRS20CODE-black" alt="LOGIN WITH PAIR CODE" width="250">
 </a>
+
+
+
+
+    <br>
+<a href='https://heroku.com/deploy?template=https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
